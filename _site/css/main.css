@@ -325,13 +325,15 @@ footer {
 }
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background:#7A0000; 
+    background:black; 
     border-radius: 0px;
 }
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-    background: #fff2d8; 
+    background: #f7eecb; 
 }
+
+
 
 
 
